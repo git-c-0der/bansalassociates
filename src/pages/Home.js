@@ -27,7 +27,7 @@ const Home = () => {
             </div>
             <div className="hidden md:block">
               <img
-                src="/home/BA6.jpg"
+                src="/bansalassociates/home/BA6.jpg"
                 alt="Financial Services"
                 className="rounded-lg shadow-xl"
               />

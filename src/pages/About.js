@@ -7,7 +7,7 @@ const About = () => {
       name: 'Madhav Bansal',
       position: 'Chartered Accountant & CEO',
       bio: 'With over 25 years of experience in financial services.',
-      image: '/team/Madhav.jpg',
+      image: '/bansalassociates/team/Madhav.jpg',
       linkedin: 'https://linkedin.com/in/madhav-bansal',
       contact: {
         email: 'madhav.bansal@gmail.com',
@@ -18,7 +18,7 @@ const About = () => {
       name: 'Raghav Bansal',
       position: 'Chartered Accountant',
       bio: 'Expert in financial strategy and risk management.',
-      image: '/team/Raghav.jpeg',
+      image: '/bansalassociates/team/Raghav.jpeg',
       linkedin: 'https://www.linkedin.com/in/raghav-bansal-329603a0/',
       contact: {
         email: 'raghav.bansal@gmail.com',
@@ -29,7 +29,7 @@ const About = () => {
       name: 'Shilpa Maurya',
       position: 'Chartered Accountant',
       bio: 'Specializes in CFO Advisory',
-      image: '/team/Shilpa.png',
+      image: '/bansalassociates/team/Shilpa.png',
       linkedin: 'https://www.linkedin.com/in/ca-shilpa-maurya-80bb06144/',
       contact: {
         email: 'shilpa.maurya@gmail.com',
@@ -94,7 +94,7 @@ const About = () => {
             </div>
             <div className="relative">
               <img
-                src="/about/Office.jpg"
+                src="/bansalassociates/about/Office.jpg"
                 alt="Our Office"
                 className="rounded-lg shadow-xl w-full h-auto"
               />

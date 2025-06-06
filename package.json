@@ -2,7 +2,7 @@
   "name": "bansalassociates",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bansalassociates.github.io/bansalassociates",
+  "homepage": "https://git-c-0der.github.io/bansalassociates",
   "dependencies": {
     "@heroicons/react": "^2.1.1",
     "@testing-library/jest-dom": "^5.17.0",
